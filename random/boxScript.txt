@@ -1,0 +1,68 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+
+Enable-RemoteDesktop
+
+
+cinst 7zip
+
+cinst arduino
+
+cinst autohotkey.portable
+
+cinst ccleaner
+
+cinst cheatengine
+
+cinst cmake
+
+cinst curl
+
+cinst dropbox
+
+cinst eclipse
+
+cinst everything
+
+cinst foobar2000
+
+cinst git
+
+cinst jdk8
+
+cinst jre8
+
+cinst malwarebytes
+
+cinst maven
+
+cinst mingw
+
+cinst nodejs
+
+cinst phantomjs
+
+cinst php
+
+cinst pip
+
+cinst potplayer
+
+cinst powershell
+
+cinst putty
+
+cinst python2
+
+cinst qbittorrent
+
+cinst railsinstaller
+
+cinst ruby
+
+cinst sumatrapdf.install
+
+cinst teamviewer
+
+cinst visualstudiocode
+
+cinst wget
